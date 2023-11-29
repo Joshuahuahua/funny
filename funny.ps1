@@ -1,2 +1,2 @@
-Write-Host test
+Write-Host "test"
 Read-Host
