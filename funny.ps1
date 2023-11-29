@@ -1,2 +1,2 @@
-echo test
+Write-Host test
 Read-Host
